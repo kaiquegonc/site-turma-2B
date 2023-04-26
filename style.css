@@ -1,4 +1,24 @@
+
 header {
     background-color: blue;
     color: azure;
+
+}
+.escola image{
+    width: 25%;
+}
+
+.escola {
+    background-image: linear-gradient( blue,rgb(0, 174, 255));
+    color: beige;
+   
+}
+
+.emprender image{
+    width: 30%;
+}
+
+.emprender {
+    background-image: linear-gradient(blue, rgb(0, 204, 255));
+    color: beige;
 }
